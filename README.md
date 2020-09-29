@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-Science-Portfolio
 
 A repository of projects I've worked on or currently working on. All notebooks are written in Python (Jupyter Notebook)
 
